@@ -23,7 +23,7 @@ Linux is a powerful, open-source operating system widely used for its stability,
 - <b>cd</b>: Changes the current directory.
   - Example: cd projects moves to the projects subdirectory.
   - Pro Tip: Use cd .. to go up one directory level.
-<img src="https://i.imgur.com/KV15cfv.jpeg" height="70%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IaBUrvE.png" height="70%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Common Commands for Reading File Content:</h2>
 
@@ -69,9 +69,9 @@ Linux is a powerful, open-source operating system widely used for its stability,
   - Example: chmod g+w,o-r access.txt grants write permission to the group and removes read access for others.
 
 
-<img src="https://i.imgur.com/eRPorkY.jpeg" height="70%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dspRcdN.png" height="70%" width="80%" alt="Disk Sanitization Steps"/>
 
 <ins>Since the file is empty, there won't be any output, but  <b>cat</b> will display its contents if it had text. </ins>
 
-<img src="https://i.imgur.com/RLOapBF.jpeg" height="70%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q6Ost1W.png" height="70%" width="80%" alt="Disk Sanitization Steps"/>
 
